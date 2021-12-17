@@ -1,11 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2021-12-17T19:25:14.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="jZ3g3bAcJGcvTWmpdxHG" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-17T19:58:03.479Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="K492W93oYsqMGPylcMOi" version="16.0.0" type="github">
   <diagram id="HFHp6J19HGpSZ1r4mu0g" name="Page-1">
-    <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="h-uKYQiRQSKRfOKOgmul-1" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="50" width="120" height="80" as="geometry" />
+        <mxCell id="h-uKYQiRQSKRfOKOgmul-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="h-uKYQiRQSKRfOKOgmul-1" target="h-uKYQiRQSKRfOKOgmul-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-uKYQiRQSKRfOKOgmul-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="h-uKYQiRQSKRfOKOgmul-1" target="h-uKYQiRQSKRfOKOgmul-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-uKYQiRQSKRfOKOgmul-1" value="&lt;font style=&quot;font-size: 18px ; background-color: rgb(102 , 255 , 102)&quot;&gt;کاربر مهمان&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h-uKYQiRQSKRfOKOgmul-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="h-uKYQiRQSKRfOKOgmul-2" target="h-uKYQiRQSKRfOKOgmul-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-uKYQiRQSKRfOKOgmul-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#FF0000;entryX=0.067;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h-uKYQiRQSKRfOKOgmul-2" target="h-uKYQiRQSKRfOKOgmul-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="150" />
+              <mxPoint x="540" y="150" />
+              <mxPoint x="540" y="416" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h-uKYQiRQSKRfOKOgmul-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;span style=&quot;background-color: rgb(0 , 204 , 0)&quot;&gt;دیدن لیست زمین ها&lt;br&gt;به نسبت نزدیکی&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="50" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h-uKYQiRQSKRfOKOgmul-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;fontColor=#FF0000;" edge="1" parent="1" source="h-uKYQiRQSKRfOKOgmul-4" target="h-uKYQiRQSKRfOKOgmul-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="20" />
+              <mxPoint x="30" y="20" />
+              <mxPoint x="30" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h-uKYQiRQSKRfOKOgmul-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;span style=&quot;background-color: rgb(0 , 204 , 0)&quot;&gt;دیدن لیست بازیکن ها&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(235 , 255 , 133)&quot;&gt;(بر اساس آنلاین شدن؟)&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="50" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h-uKYQiRQSKRfOKOgmul-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="h-uKYQiRQSKRfOKOgmul-6" target="h-uKYQiRQSKRfOKOgmul-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-uKYQiRQSKRfOKOgmul-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="h-uKYQiRQSKRfOKOgmul-6" target="h-uKYQiRQSKRfOKOgmul-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-uKYQiRQSKRfOKOgmul-6" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;span style=&quot;background-color: rgb(0 , 204 , 0)&quot;&gt;انتخاب زبان&amp;nbsp;&lt;br&gt;انگلیسی و فارسی&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="210" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h-uKYQiRQSKRfOKOgmul-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="h-uKYQiRQSKRfOKOgmul-8" target="h-uKYQiRQSKRfOKOgmul-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-uKYQiRQSKRfOKOgmul-8" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;span style=&quot;background-color: rgb(0 , 204 , 0)&quot;&gt;روشن کردن جی پی اس&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="210" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h-uKYQiRQSKRfOKOgmul-10" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;span style=&quot;background-color: rgb(0 , 204 , 0)&quot;&gt;دیدن اینترو&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="210" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h-uKYQiRQSKRfOKOgmul-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="h-uKYQiRQSKRfOKOgmul-12" target="h-uKYQiRQSKRfOKOgmul-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-uKYQiRQSKRfOKOgmul-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="h-uKYQiRQSKRfOKOgmul-12" target="h-uKYQiRQSKRfOKOgmul-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-uKYQiRQSKRfOKOgmul-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;span style=&quot;background-color: rgb(0 , 204 , 0)&quot;&gt;دیدن لیست بازیکنان&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(235 , 255 , 133)&quot;&gt;(بر اساس آنلاین شدن؟)&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="370" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h-uKYQiRQSKRfOKOgmul-14" value="&lt;font style=&quot;font-size: 18px ; background-color: rgb(235 , 255 , 133)&quot;&gt;فالو کردن بازیکنان و مربیان&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="370" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h-uKYQiRQSKRfOKOgmul-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="h-uKYQiRQSKRfOKOgmul-16" target="h-uKYQiRQSKRfOKOgmul-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-uKYQiRQSKRfOKOgmul-16" value="&lt;font style=&quot;font-size: 18px&quot;&gt;دیدن لیست نتایج و بازی ها&lt;br&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="530" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h-uKYQiRQSKRfOKOgmul-18" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;span style=&quot;background-color: rgb(235 , 255 , 133)&quot;&gt;دیدن جزئیات بازی ها&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="530" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h-uKYQiRQSKRfOKOgmul-23" value="دیدن جزئیات زمین&lt;br&gt;عکس &lt;br&gt;&lt;span style=&quot;background-color: rgb(235 , 255 , 133)&quot;&gt;+ بازیکنان + بازی ها&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=#00CC00;fontSize=18;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="570" y="370" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
